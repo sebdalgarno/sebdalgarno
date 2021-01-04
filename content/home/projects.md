@@ -8,10 +8,10 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 40
 
-title: Prior Work
-subtitle: 'I have developed > 20 web apps for data visualization/analysis and > 10 R packages. Here is a selection:'
+title: Projects
+subtitle: 'I enjoy developing open-source R packages, Shiny apps, and web-based interactive data visualizations (including web maps). Here are some examples:'
 
 content:
   # Page type to display. E.g. project.

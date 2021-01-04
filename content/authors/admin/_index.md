@@ -6,7 +6,7 @@ title: Seb Dalgarno
 superuser: true
 
 # Role/position/tagline
-role: PhD Student and General Human
+role: PhD Student and Human in the World
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,9 +21,10 @@ interests:
 - R
 - acoustic telemetry
 - freshwater fish ecology
-- Bayesian inference
-- data visualization and mapping
-- music/surfing/fishing/kayaking
+- Bayesian inference 
+- regression models
+- data viz + mapping
+- music + surfing 
 
 # Education to show in About widget
 education:
