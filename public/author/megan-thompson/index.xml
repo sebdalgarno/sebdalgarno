@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megan Thompson | Seb Dalgarno</title>
+    <link>https://sebdalgarno.netlify.app/author/megan-thompson/</link>
+      <atom:link href="https://sebdalgarno.netlify.app/author/megan-thompson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Megan Thompson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebdalgarno.netlify.app/images/icon_hu54e5cc27a9f4e2bdcb29040fab12107b_961371_512x512_fill_lanczos_center_2.png</url>
+      <title>Megan Thompson</title>
+      <link>https://sebdalgarno.netlify.app/author/megan-thompson/</link>
+    </image>
+    
+    <item>
+      <title>Trans Mountain Expansion Project and Oil Spills: Power Analysis on Pacific Salmon Data</title>
+      <link>https://sebdalgarno.netlify.app/publication/trans-mountain/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://sebdalgarno.netlify.app/publication/trans-mountain/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

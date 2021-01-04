@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arison Arihafa | Seb Dalgarno</title>
+    <link>https://sebdalgarno.netlify.app/author/arison-arihafa/</link>
+      <atom:link href="https://sebdalgarno.netlify.app/author/arison-arihafa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arison Arihafa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sebdalgarno.netlify.app/images/icon_hu54e5cc27a9f4e2bdcb29040fab12107b_961371_512x512_fill_lanczos_center_2.png</url>
+      <title>Arison Arihafa</title>
+      <link>https://sebdalgarno.netlify.app/author/arison-arihafa/</link>
+    </image>
+    
+    <item>
+      <title>An estimate of above-ground carbon stock in tropical rainforest on Manus Island, Papua New Guinea</title>
+      <link>https://sebdalgarno.netlify.app/publication/manus-carbon/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://sebdalgarno.netlify.app/publication/manus-carbon/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

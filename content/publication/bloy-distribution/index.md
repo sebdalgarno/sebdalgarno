@@ -21,21 +21,21 @@ publication_types: ["2"]
 publication: "Avian Conservation and Ecology"
 publication_short: ""
 
-abstract: We present a species distribution model (SDM) for prediction of Black Oystercatcher (Haematopus bachmani) breeding pair occurrence in Haida Gwaii, British Columbia. Boosted regression trees, a machine learning algorithm, was used to fit the model. In total, 14 predictors were selected a priori through development of a conceptual model. Breeding pair occurrence data were compiled from two available surveys conducted in 2005 and 2010 (545 km of shoreline surveyed in total). All data were aggregated to common model units (vector polyline shoreline segments approximately 100 m in length), which approximate breeding territory size. The final model, which included eight predictors (distance to treeline, island area, wave exposure, shoreline type, intertidal area within 50 m, segment length, rat occurrence, and intertidal area within 1000 m), had excellent predictive ability assessed by 10-fold cross-validation (AUC = 0.89). Predictive ability was reduced when the model was trained and tested on spatially (AUC = 0.86) and temporally (AUC = 0.83) independent data. Distance to treeline and island area had greatest influence on the model (RI = 41.5% and RI = 36.7%, respectively); we hypothesized that these predictors are related to avoidance of predators. Partial dependence plots revealed that breeding pairs tended to occur; further from the treeline, on small islands, at high wave exposures, at moderate intertidal area, on bedrock or gravel shoreline types, and on islands without rats. However, breeding pairs tended not to occur on very small islands and at very high wave exposures, which we hypothesize to reflect avoidance of nest washout. Results may inform local conservation and management efforts, i.e., from predictive maps, and eventual development of a high-resolution (~100 m) model for prediction of Black Oystercatcher breeding pairs at a regional scale. Further, methods and GIS data sets developed may be used to model distribution of other coastal species in the region.
+abstract: 'We present a species distribution model (SDM) for prediction of Black Oystercatcher (Haematopus bachmani) breeding pair occurrence in Haida Gwaii, British Columbia. Boosted regression trees, a machine learning algorithm, was used to fit the model. In total, 14 predictors were selected a priori through development of a conceptual model. Breeding pair occurrence data were compiled from two available surveys conducted in 2005 and 2010 (545 km of shoreline surveyed in total). All data were aggregated to common model units (vector polyline shoreline segments approximately 100 m in length), which approximate breeding territory size. The final model, which included eight predictors (distance to treeline, island area, wave exposure, shoreline type, intertidal area within 50 m, segment length, rat occurrence, and intertidal area within 1000 m), had excellent predictive ability assessed by 10-fold cross-validation (AUC = 0.89). Predictive ability was reduced when the model was trained and tested on spatially (AUC = 0.86) and temporally (AUC = 0.83) independent data. Distance to treeline and island area had greatest influence on the model (RI = 41.5% and RI = 36.7%, respectively); we hypothesized that these predictors are related to avoidance of predators. Partial dependence plots revealed that breeding pairs tended to occur: further from the treeline, on small islands, at high wave exposures, at moderate intertidal area, on bedrock or gravel shoreline types, and on islands without rats. However, breeding pairs tended not to occur on very small islands and at very high wave exposures, which we hypothesize to reflect avoidance of nest washout. Results may inform local conservation and management efforts, i.e., from predictive maps, and eventual development of a high-resolution (~100 m) model for prediction of Black Oystercatcher breeding pairs at a regional scale. Further, methods and GIS data sets developed may be used to model distribution of other coastal species in the region.'
 
 # Summary. An optional shortened abstract.
 summary: We present a species distribution model (SDM) for prediction of Black Oystercatcher (Haematopus bachmani) breeding pair occurrence in Haida Gwaii, British Columbia.
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
+url_pdf: https://www.researchgate.net/publication/320749823_Species-environment_associations_and_predicted_distribution_of_Black_Oystercatcher_breeding_pairs_in_Haida_Gwaii_British_Columbia_Canada
+url_code: 'https://zenodo.org/record/997576#.X_Ok8ulKigw'
+url_dataset: 'https://zenodo.org/record/997576#.X_Ok8ulKigw'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -63,13 +63,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
