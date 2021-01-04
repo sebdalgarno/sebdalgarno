@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | North Beach Consulting</title>
+    <link>https://ecstatic-swirles-39c784.netlify.app/project/</link>
+      <atom:link href="https://ecstatic-swirles-39c784.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ecstatic-swirles-39c784.netlify.app/images/icon_hu54e5cc27a9f4e2bdcb29040fab12107b_961371_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://ecstatic-swirles-39c784.netlify.app/project/</link>
+    </image>
+    
+    <item>
+      <title>Shinyrems</title>
+      <link>https://ecstatic-swirles-39c784.netlify.app/project/shinyrems/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecstatic-swirles-39c784.netlify.app/project/shinyrems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peachland-Trepanier Logging History</title>
+      <link>https://ecstatic-swirles-39c784.netlify.app/project/peachland-map/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecstatic-swirles-39c784.netlify.app/project/peachland-map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fwapgr</title>
+      <link>https://ecstatic-swirles-39c784.netlify.app/project/fwapgr/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecstatic-swirles-39c784.netlify.app/project/fwapgr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haida Gwaii Logging History</title>
+      <link>https://ecstatic-swirles-39c784.netlify.app/project/hg-logging/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecstatic-swirles-39c784.netlify.app/project/hg-logging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shinyssdtools</title>
+      <link>https://ecstatic-swirles-39c784.netlify.app/project/shinyssdtools/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecstatic-swirles-39c784.netlify.app/project/shinyssdtools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tinter</title>
+      <link>https://ecstatic-swirles-39c784.netlify.app/project/tinter/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecstatic-swirles-39c784.netlify.app/project/tinter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

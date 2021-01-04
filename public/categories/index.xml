@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | North Beach Consulting</title>
+    <link>https://ecstatic-swirles-39c784.netlify.app/categories/</link>
+      <atom:link href="https://ecstatic-swirles-39c784.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ecstatic-swirles-39c784.netlify.app/images/icon_hu54e5cc27a9f4e2bdcb29040fab12107b_961371_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://ecstatic-swirles-39c784.netlify.app/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

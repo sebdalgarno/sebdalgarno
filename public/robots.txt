@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ecstatic-swirles-39c784.netlify.app/sitemap.xml

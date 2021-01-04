@@ -1,0 +1,18 @@
+{
+  "name": "North Beach Consulting",
+  "short_name": "North Beach Consulting",
+  "lang": "en-us",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/images/icon_hu54e5cc27a9f4e2bdcb29040fab12107b_961371_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu54e5cc27a9f4e2bdcb29040fab12107b_961371_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
