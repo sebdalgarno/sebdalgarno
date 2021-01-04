@@ -70,7 +70,9 @@ email: "dalgarno@unbc.ca"
 highlight_name: false
 ---
 
-I'm a PhD student at the UNBC [Freshwater Fish Ecology lab](https://www.ffishlab.ca/). We are using many years of acoustic telemetry data and Bayesian models to make inferences about the movement of the endangered White Sturgeon population in the Columbia River. I was previously a Computational Biologist at [Poisson Consulting](https://www.poissonconsulting.ca/), currently owner of [North Beach Consulting](https://www.northbeachconsulting.ca/) and am very enthusiastic about R (packages, Shiny apps), spatial data and (sometimes interactive) data visualization.
+I am a PhD student at the UNBC [Freshwater Fish Ecology lab](https://www.ffishlab.ca/). We are using many years of acoustic telemetry data and Bayesian models to make inferences about White Sturgeon movement in the Columbia River. 
 
-I am also a musician, songwriter and avid surfer on the north coast of Haida Gwaii. Check out some recordings from my band [Rusty Mould and the Sugar Agates bandcamp page.](https://rustymouldandthesugaragates.bandcamp.com/)
+I was previously a Computational Biologist at [Poisson Consulting](https://www.poissonconsulting.ca/), currently owner of [North Beach Consulting](https://www.northbeachconsulting.ca/) and am very enthusiastic about R, spatial data/maps and (interactive) data visualization.
+
+I am also a songwriter and surfer on the north coast of Haida Gwaii. You can check out recordings from my band [Rusty Mould and the Sugar Agates bandcamp page.](https://rustymouldandthesugaragates.bandcamp.com/)
 
