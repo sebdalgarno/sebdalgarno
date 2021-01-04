@@ -1,2 +1,2 @@
-# northbeachconsulting-hugo
-A hugo website for North Beach Constulting
+# sebdalgarno.github.io
+Personal website 
