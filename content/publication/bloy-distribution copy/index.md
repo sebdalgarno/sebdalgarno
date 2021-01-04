@@ -28,7 +28,7 @@ summary: We present a species distribution model (SDM) for prediction of Black O
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""

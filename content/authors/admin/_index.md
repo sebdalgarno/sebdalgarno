@@ -75,5 +75,5 @@ I am a PhD student at the UNBC [Freshwater Fish Ecology lab](https://www.ffishla
 
 I was previously a Computational Biologist at [Poisson Consulting](https://www.poissonconsulting.ca/), currently owner of [North Beach Consulting](https://www.northbeachconsulting.ca/) and am very enthusiastic about R, spatial data/maps and (interactive) data visualization.
 
-I am also a songwriter and surfer living on the north coast of Haida Gwaii. You can check out recordings from my band [Rusty Mould and the Sugar Agates bandcamp page.](https://rustymouldandthesugaragates.bandcamp.com/)
+I am also a songwriter and surfer living on the north coast of Haida Gwaii. You can check out recordings from my band [Rusty Mould and the Sugar Agates.](https://rustymouldandthesugaragates.bandcamp.com/)
 

@@ -150,7 +150,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-584736129&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-783512496&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -160,7 +160,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-584736129&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-783512496&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -564,25 +564,6 @@ Three
       <link>https://sebdalgarno.netlify.app/publication/bloy-distribution-copy-2/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://sebdalgarno.netlify.app/publication/bloy-distribution-copy-2/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Species-environment associations and predicted distribution of Black Oystercatcher breeding pairs in Haida Gwaii, British Columbia, Canada</title>
-      <link>https://sebdalgarno.netlify.app/publication/bloy-distribution-copy-3/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://sebdalgarno.netlify.app/publication/bloy-distribution-copy-3/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
