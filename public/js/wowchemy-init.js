@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo:/Users/sebastiandalgarno/Code/northbeachconsulting-hugo/themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-theming.js
+  // ns-hugo:/Users/sebastiandalgarno/Code/sebdalgarno/themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-theming.js
   var body = document.body;
   function getThemeMode() {
     return parseInt(localStorage.getItem("wcTheme") || 2);

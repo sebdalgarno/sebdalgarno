@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Courses | North Beach Consulting</title>
-    <link>https://ecstatic-swirles-39c784.netlify.app/courses/</link>
-      <atom:link href="https://ecstatic-swirles-39c784.netlify.app/courses/index.xml" rel="self" type="application/rss+xml" />
+    <title>Courses | Seb Dalgarno</title>
+    <link>https://sebdalgarno.netlify.app/courses/</link>
+      <atom:link href="https://sebdalgarno.netlify.app/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://ecstatic-swirles-39c784.netlify.app/images/icon_hu54e5cc27a9f4e2bdcb29040fab12107b_961371_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sebdalgarno.netlify.app/images/icon_hu54e5cc27a9f4e2bdcb29040fab12107b_961371_512x512_fill_lanczos_center_2.png</url>
       <title>Courses</title>
-      <link>https://ecstatic-swirles-39c784.netlify.app/courses/</link>
+      <link>https://sebdalgarno.netlify.app/courses/</link>
     </image>
     
   </channel>

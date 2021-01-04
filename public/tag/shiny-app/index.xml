@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shiny App | North Beach Consulting</title>
-    <link>https://ecstatic-swirles-39c784.netlify.app/tag/shiny-app/</link>
-      <atom:link href="https://ecstatic-swirles-39c784.netlify.app/tag/shiny-app/index.xml" rel="self" type="application/rss+xml" />
+    <title>Shiny App | Seb Dalgarno</title>
+    <link>https://sebdalgarno.netlify.app/tag/shiny-app/</link>
+      <atom:link href="https://sebdalgarno.netlify.app/tag/shiny-app/index.xml" rel="self" type="application/rss+xml" />
     <description>Shiny App</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ecstatic-swirles-39c784.netlify.app/images/icon_hu54e5cc27a9f4e2bdcb29040fab12107b_961371_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sebdalgarno.netlify.app/images/icon_hu54e5cc27a9f4e2bdcb29040fab12107b_961371_512x512_fill_lanczos_center_2.png</url>
       <title>Shiny App</title>
-      <link>https://ecstatic-swirles-39c784.netlify.app/tag/shiny-app/</link>
+      <link>https://sebdalgarno.netlify.app/tag/shiny-app/</link>
     </image>
     
     <item>
       <title>Shinyrems</title>
-      <link>https://ecstatic-swirles-39c784.netlify.app/project/shinyrems/</link>
+      <link>https://sebdalgarno.netlify.app/project/shinyrems/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecstatic-swirles-39c784.netlify.app/project/shinyrems/</guid>
+      <guid>https://sebdalgarno.netlify.app/project/shinyrems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shinyssdtools</title>
-      <link>https://ecstatic-swirles-39c784.netlify.app/project/shinyssdtools/</link>
+      <link>https://sebdalgarno.netlify.app/project/shinyssdtools/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecstatic-swirles-39c784.netlify.app/project/shinyssdtools/</guid>
+      <guid>https://sebdalgarno.netlify.app/project/shinyssdtools/</guid>
       <description></description>
     </item>
     
