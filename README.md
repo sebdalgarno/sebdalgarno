@@ -1,2 +1,2 @@
-# sebdalgarno.github.io
-Personal website 
+# sebdalgarno
+Personal website using Hugo and Netlify (built with blogdown)
