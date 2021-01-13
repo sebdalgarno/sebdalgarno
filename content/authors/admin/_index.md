@@ -73,7 +73,7 @@ highlight_name: false
 
 I am a PhD student at the UNBC [Freshwater Fish Ecology lab](https://www.ffishlab.ca/). We are using many years of acoustic telemetry data and Bayesian models to make inferences about White Sturgeon movement in the Columbia River. 
 
-I was previously a Computational Biologist at [Poisson Consulting](https://www.poissonconsulting.ca/) and am very enthusiastic about R, spatial data/maps, database design and (interactive) data visualization. If you'd like to hire me, check out my [consulting website](https://www.northbeachconsulting.ca/).
+More generally, I am very interested in all things R, spatial data/maps, database design and (interactive) data visualization. Check out [my blog](htpps://www.fishydata.netlify.app) and my [consulting website](https://www.northbeachconsulting.ca/) for more.
 
-I am also a songwriter and avid surfer living on the north coast of Haida Gwaii. You can check out recordings from my band [Rusty Mould and the Sugar Agates.](https://rustymouldandthesugaragates.bandcamp.com/)
+Also check out some recordings from my band [Rusty Mould and the Sugar Agates.](https://rustymouldandthesugaragates.bandcamp.com/)!
 
