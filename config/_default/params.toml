@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "A consulting company specializing in web maps, interactive data visualization, Shiny apps, R packages and database design."
+description = "Personal and academic website for Seb Dalgarno."
 
 ############################
 ## Site Features
