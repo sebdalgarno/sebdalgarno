@@ -61,4 +61,20 @@ experience:
     date_start: '2012-09-01'
     date_end: '2014-09-01'
     description: REDD+, forest conservation, remote fieldwork
+    
+  - title: Research Assistant
+    company: University of Toronto
+    company_url: ''
+    location: Toronto, Ontario
+    date_start: '2011-09-01'
+    date_end: '2012-09-01'
+    description: Forest governance research, preparation of manuscripts for Prof Neera Singh
+    
+  - title: BA Hons Forest Conservation 
+    company: University of Toronto
+    company_url: ''
+    location: Toronto, Ontario
+    date_start: '2006-09-01'
+    date_end: '2011-05-01'
+    description: Interdisciplinary coursework in forestry, ecology, geography, anthropolgy
 ---
